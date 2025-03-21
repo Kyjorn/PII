@@ -10,6 +10,7 @@ int main () {
     string city = "Halloween Town";
     int zipCode = 123456;
 
+    //cout
     cout << firstName << endl;
     cout << lastName << endl;
     cout << streetAddress << endl;
