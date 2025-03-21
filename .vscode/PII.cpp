@@ -28,10 +28,11 @@ int main () {
         cin >> zipCode;
 
     //cout
-    cout << firstName << endl;
-    cout << lastName << endl;
-    cout << streetAddress << endl;
-    cout << city << endl;
-    cout << zipCode << endl;
+    cout << "____________________" << endl; //line for clarity 
+    cout << "-First name: " << firstName << endl;
+    cout << "-Last name: " << lastName << endl;
+    cout << "-Street address: " << streetAddress << endl;
+    cout << "-City: " << city << endl;
+    cout << "-Zip code: " << zipCode << endl;
 return 0;
 }
