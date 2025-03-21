@@ -2,7 +2,6 @@
 //Please be sure to correct all outlined errors.
 
 #include<iostream>
-#include<conio.h>
 
 //Standard namespace declaration
 using namespace std;
